@@ -2,7 +2,7 @@
 
 I'm a data scientist with a background in neuroscience and computational biology, and I recently completed an MSc in AI in the Biosciences. 
 
-### What I work on
+### What I've worked on
 - **Computer vision for behaviour:** pose estimation, object detection and multi-animal tracking to automate behavioural coding from video
 - **Deep generative models:** count-aware variational autoencoders for imputing missing data in small genomic datasets
 - **Machine learning and statistics:** feature engineering, careful validation (grouped cross-validation, held-out evaluation), and statistical modelling in Python and R
