@@ -17,4 +17,4 @@ Python · PyTorch · scikit-learn · tensorflow · pandas · numpy · OpenCV · 
 ### Interests
 I'm interested in applying data science to climate and environmental challenges.
 
-📫 [LinkedIn]([link]www.linkedin.com/in/carina-sosteric-674b5a220) · [email](mailto:carinasosteric@gmail.com)
+📫 [LinkedIn]([www.linkedin.com/in/carina-sosteric-674b5a220) · [email](mailto:carinasosteric@gmail.com)
