@@ -1,6 +1,6 @@
 ## Hi, I'm Carina 👋
 
-I'm a data scientist with a background in neuroscience and computational biology, and I recently completed an MSc in AI in the Biosciences. I like turning messy, real-world biological data into reliable, well-validated pipelines.
+I'm a data scientist with a background in neuroscience and computational biology, and I recently completed an MSc in AI in the Biosciences. 
 
 ### What I work on
 - **Computer vision for behaviour:** pose estimation, object detection and multi-animal tracking to automate behavioural coding from video
