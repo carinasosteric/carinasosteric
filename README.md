@@ -12,7 +12,7 @@ I'm a data scientist with a background in neuroscience and computational biology
 - **[NB-MIWAE]([link](https://github.com/carinasosteric/Negative-Binomial-Multiple-Importance-Weighted-Autoencoder)):** a negative binomial importance-weighted autoencoder for imputing RNA-seq counts while preserving the structure DESeq2 relies on
 
 ### Tools
-Python · PyTorch · scikit-learn · tensorflow · pandas · numpy · OpenCV · Ultralytics YOLO · DeepLabCut · R
+Python · PyTorch · scikit-learn · tensorflow · pandas · numpy · OpenCV · Ultralytics YOLO · ByteTrack · DeepLabCut · R
 
 ### Interests
 I'm interested in applying data science to climate and environmental challenges.
